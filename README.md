@@ -3,8 +3,8 @@
 [UVMGen](https://www.uvmgen.com) cheat sheets are available on GitHub to help facilitate contributions from the DV community.
 
 To edit a cheat sheet:
-1. Click on the **Edit** icon on the cheat sheet at www.uvmgen.com. This will take you to the cheat sheet on GitHub. 
-2. Click the **Fork this project and edit the file** icon.
+1. Click on the **Edit** icon on the cheat sheet at www.uvmgen.com. This will take you to the cheat sheet on GitHub. Alternatively, click one of the \*.md files on [uvmgen/cheatsheets](https://github.com/uvmgen/cheatsheets).
+2. Click the **Fork this project and edit the file** icon on the file page.
 3. Make your edits using [GitHub Markdown](https://guides.github.com/features/mastering-markdown/).
 4. When you are happy with your changes scroll down to the **Propose file change** section, enter a title and description for your change. Click the **Propose file change** button.
 5. Type a title and description for your pull request. Click the **Create pull request** button.
@@ -49,4 +49,4 @@ class my_agent extends uvm_agent;
 endclass
 ```
 
-# Thanks for contributing!
+## Thanks for contributing!
