@@ -1,0 +1,10 @@
+{
+  "title": "API master sequences",
+  "description": "UVM API master sequences.",
+  "jsonLd": {
+		"keywords": [
+		],
+    "dependencies": "SystemVerilog",
+    "proficiencyLevel": "Beginner"
+  }
+}

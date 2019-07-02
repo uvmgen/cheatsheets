@@ -18,7 +18,7 @@ For more information on making a file edit see [this GitHub help page](https://h
 The GitHub markdown that we use on UVMGen looks something like this:
 
 ````markdown
-##### Use 5 #'s for headings
+## Start with h2 headings
 
 Text in a cheat sheet can be written normally. Just hit Enter to add a new line.
 
@@ -31,11 +31,13 @@ class my_agent extends uvm_agent;
 
 endclass
 ```
+
+Use this syntax to [link to another cheat-sheet](api-master-sequences.md).
 ````
 
 The above example markdown will be rendered on UVMGen like this:
 
-##### Use 5 #'s for headings
+## Start with h2 headings
 
 Text in a cheat sheet can be written normally. Just hit Enter to add a new line.
 
@@ -48,5 +50,8 @@ class my_agent extends uvm_agent;
 
 endclass
 ```
+
+Use this syntax to [link to another cheat-sheet](api-master-sequences.md).
+
 
 ## Thanks for contributing!

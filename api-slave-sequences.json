@@ -1,0 +1,10 @@
+{
+  "title": "API slave sequences",
+  "description": "UVM API slave sequences.",
+  "jsonLd": {
+		"keywords": [
+		],
+    "dependencies": "SystemVerilog",
+    "proficiencyLevel": "Beginner"
+  }
+}
