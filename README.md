@@ -24,7 +24,7 @@ Text in a cheat sheet can be written normally. Just hit Enter to add a new line.
 
 To add in a code section use three backticks:
 
-```systemverilog
+```verilog
 class my_agent extends uvm_agent;
 
   // more code...
@@ -43,7 +43,7 @@ Text in a cheat sheet can be written normally. Just hit Enter to add a new line.
 
 To add in a code section use three backticks:
 
-```systemverilog
+```verilog
 class my_agent extends uvm_agent;
 
   // more code...
